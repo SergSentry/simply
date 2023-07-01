@@ -18,3 +18,7 @@
 ```
 [“Russia”, “Denmark”, “Kazan”] → []
 ```
+<br><br>
+# Блок-схема решения задачи
+
+![Git](/img/algorithm.png)
